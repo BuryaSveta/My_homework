@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\bin\Debug\net6.0\Examples1.exe
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\bin\Debug\net6.0\Examples1.deps.json
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\bin\Debug\net6.0\Examples1.runtimeconfig.json
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\bin\Debug\net6.0\Examples1.dll
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\bin\Debug\net6.0\Examples1.pdb
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.dll
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\refint\Examples1.dll
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.pdb
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\Examples1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Lesson\Lesson1\Examples1\obj\Debug\net6.0\ref\Examples1.dll
